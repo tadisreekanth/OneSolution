@@ -1,0 +1,33 @@
+{
+  "name": "OneSolutionAppInterface",
+  "version": "0.0.1",
+  "summary": "OneSolutionAppInterface Contains App UI and UX",
+  "description": "OneSolutionAppInterface Contains App UI and UX",
+  "homepage": "https://github.com/tadisreekanth/OneSolutionAppInterface",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sreekanth Reddy Tadi": "sreekanth.t.bs@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/tadisreekanth/OneSolutionAppInterface.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "OneSolutionAppInterface/**/*",
+  "dependencies": {
+    "OneSolutionUtility": [
+
+    ],
+    "OneSolutionAPI": [
+
+    ],
+    "OneSolutionTextField": [
+
+    ]
+  }
+}

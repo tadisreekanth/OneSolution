@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-OneSolution/Pods-OneSolution-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CryptoSwift/CryptoSwift.framework
+${BUILT_PRODUCTS_DIR}/OneSolutionAPI/OneSolutionAPI.framework
+${BUILT_PRODUCTS_DIR}/OneSolutionAppInterface/OneSolutionAppInterface.framework
+${BUILT_PRODUCTS_DIR}/OneSolutionTextField/OneSolutionTextField.framework
+${BUILT_PRODUCTS_DIR}/OneSolutionUtility/OneSolutionUtility.framework

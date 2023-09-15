@@ -1,0 +1,44 @@
+PODS:
+  - CryptoSwift (1.7.1)
+  - OneSolutionAPI (0.0.1):
+    - CryptoSwift
+    - OneSolutionUtility
+  - OneSolutionAppInterface (0.0.1):
+    - OneSolutionAPI
+    - OneSolutionTextField
+    - OneSolutionUtility
+  - OneSolutionTextField (0.0.1):
+    - OneSolutionAPI
+    - OneSolutionUtility
+  - OneSolutionUtility (0.0.1)
+
+DEPENDENCIES:
+  - OneSolutionAPI (from `/Users/sreekanth.tadi/IVY-Workspace/Setup2/API/`)
+  - OneSolutionAppInterface (from `/Users/sreekanth.tadi/IVY-Workspace/Setup2/OneSolutionAppInterface`)
+  - OneSolutionTextField (from `/Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/`)
+  - OneSolutionUtility (from `/Users/sreekanth.tadi/IVY-Workspace/Setup2/Utility`)
+
+SPEC REPOS:
+  trunk:
+    - CryptoSwift
+
+EXTERNAL SOURCES:
+  OneSolutionAPI:
+    :path: "/Users/sreekanth.tadi/IVY-Workspace/Setup2/API/"
+  OneSolutionAppInterface:
+    :path: "/Users/sreekanth.tadi/IVY-Workspace/Setup2/OneSolutionAppInterface"
+  OneSolutionTextField:
+    :path: "/Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/"
+  OneSolutionUtility:
+    :path: "/Users/sreekanth.tadi/IVY-Workspace/Setup2/Utility"
+
+SPEC CHECKSUMS:
+  CryptoSwift: d3d18dc357932f7e6d580689e065cf1f176007c1
+  OneSolutionAPI: 89859b736da71de1f5a63f9d655fad60b305d901
+  OneSolutionAppInterface: 57f78f2f8328bac0810591d8d33091c6159d59d2
+  OneSolutionTextField: 0ebd6043cad8610f1192212735551cf606639085
+  OneSolutionUtility: 04d940a8b81a565efab6e00e63192e4f1caa8870
+
+PODFILE CHECKSUM: 60ba48e9e59554cee5d1d3f7513e13c0663d7c5d
+
+COCOAPODS: 1.12.1

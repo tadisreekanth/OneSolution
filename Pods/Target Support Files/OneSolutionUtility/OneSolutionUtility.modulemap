@@ -1,0 +1,6 @@
+framework module OneSolutionUtility {
+  umbrella header "OneSolutionUtility-umbrella.h"
+
+  export *
+  module * { export * }
+}

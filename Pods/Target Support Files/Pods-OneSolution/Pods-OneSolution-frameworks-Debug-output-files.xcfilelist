@@ -1,0 +1,5 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CryptoSwift.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OneSolutionAPI.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OneSolutionAppInterface.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OneSolutionTextField.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/OneSolutionUtility.framework

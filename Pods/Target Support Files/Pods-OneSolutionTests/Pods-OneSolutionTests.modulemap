@@ -1,0 +1,6 @@
+framework module Pods_OneSolutionTests {
+  umbrella header "Pods-OneSolutionTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
