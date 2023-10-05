@@ -24,10 +24,9 @@ enum Host: String {
 }
 
 class OneSolutionAPIRoute {
-    private var apiHost: String
+    private var apiHost: String = ""
     
     init() {
-        apiHost = ""
         self.updateAPIHost()
     }
     
@@ -55,7 +54,7 @@ extension OneSolutionAPIRoute: APIRoute {
     }
     
     var endPoint: String {
-        return self.host == "http://115.243.3.254:18989" ? "/EPC/rest/" : "/EPCAPI/rest/"
+        return self.host == "http://115.243.3.254:18989" ? "EPC/rest" : "EPCAPI/rest"
     }
     
     func hostUpdated() {

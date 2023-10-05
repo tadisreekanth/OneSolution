@@ -11,12 +11,16 @@ import OneSolutionAPI
 class OneSolutionAPIPath { }
 
 extension OneSolutionAPIPath: APIPath {
-    var graphData: String {
-        ""
+    var login: String {
+        "epcMobileLogin"
     }
     
-    var login: String {
-        ""
+    var graphData: String {
+        "epcDashboardService/epcServiceRequestSearch"
+    }
+    
+    var workOrders: String {
+        "mCheckListServices/mWorkOrderList"
     }
 }
 //{
