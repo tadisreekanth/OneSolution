@@ -39,12 +39,12 @@ extension Constants: AppConstants {
     }
     
     var defaultCredentials: (userName: String, password: String) {
-//        if isSimulator {
+        if isSimulator {
             switch Host(rawValue: OneSolutionAPIRoute().host) {
             case .dev: return ("KLS", "KLS")
             default: return ("KLSIT", "KLSINFYZ")
             }
-//        }
-//        return ("", "")
+        }
+        return ("", "")
     }
 }

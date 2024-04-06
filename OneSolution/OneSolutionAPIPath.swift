@@ -15,12 +15,18 @@ extension OneSolutionAPIPath: APIPath {
         "epcMobileLogin"
     }
     
-    var graphData: String {
-        "epcDashboardService/epcServiceRequestSearch"
+    var dashboard: DashboardPath {
+        struct DashboardPaths: DashboardPath {
+            var graphData: String { "epcDashboardService/epcServiceRequestSearch" }
+        }
+        return DashboardPaths()
     }
     
-    var workOrders: String {
-        "mCheckListServices/mWorkOrderList"
+    var processWorkOder: ProcessWorkOrderPath {
+        struct ProcessWorkOrderPaths: ProcessWorkOrderPath {
+            var workOrders: String { "mCheckListServices/mWorkOrderList" }
+        }
+        return ProcessWorkOrderPaths()
     }
     
     var inventoryAudit: InventoryAuditPath {
