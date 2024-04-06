@@ -22,7 +22,34 @@ extension OneSolutionAPIPath: APIPath {
     var workOrders: String {
         "mCheckListServices/mWorkOrderList"
     }
+    
+    var inventoryAudit: InventoryAuditPath {
+        struct InventoryAuditPaths: InventoryAuditPath {
+            var siteGroup: String { "mAutocomplete/mServiceGroupAuto" }
+            
+            var save: String { "inventoryAuditService/auditSave" }
+        }
+        return InventoryAuditPaths()
+    }
+    
+    var generalPORLocation: GeneralPORLocationPath {
+        struct GeneralPORLocationPaths: GeneralPORLocationPath {
+            var serialDetails: String { "EpcStorageServiceDetailDuplicate/mVinDetails" }
+            var previousVinDetails: String { "EpcStorageServiceDetail/mStorageDetails" }
+            
+            var serial: String {"mDynamicSearch/mReferenceAutoComplete" }
+            var lot: String { "EpcStorageServiceDetail/mPORLOT" }
+            var area: String { "EpcStorageServiceDetail/mStorageName" }
+            var row: String { "EpcStorageServiceDetail/mStorageRowDetails" }
+            var column: String { "EpcStorageServiceDetail/mColumnDetails"}
+            
+            var update: String { "EpcStorageServiceDetailDuplicate/mStorageSave" }
+        }
+        return GeneralPORLocationPaths()
+    }
 }
+
+
 //{
 //    static var shared = ServiceAPI ()
 //    let URL_VersionUpdate = BaseURL + "appUpdateSettingService"

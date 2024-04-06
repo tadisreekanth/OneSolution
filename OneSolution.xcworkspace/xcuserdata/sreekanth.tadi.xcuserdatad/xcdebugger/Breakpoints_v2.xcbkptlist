@@ -16,5 +16,988 @@
             stopOnStyle = "0">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F4AF92B-19CE-4A77-AC60-DACF8DDA3C73"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../OneSolutionAppInterface/OneSolutionAppInterface/Classes/Dashboard/PORLocation+TextFieldActions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A6FC4C9-1435-44E4-90E6-417DCCD06EE2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../OneSolutionAppInterface/AppInterfaceConstants.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96E84305-E490-47AC-8A8C-8AA8F55753E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "updateSearchValue()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "96E84305-E490-47AC-8A8C-8AA8F55753E8 - a0baad06b02c07f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneSolutionTextField.OneSolutionTextFieldViewModel.updateSearchValue() -&gt; ()"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "96E84305-E490-47AC-8A8C-8AA8F55753E8 - a0baad06b02c07f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneSolutionTextField.OneSolutionTextFieldViewModel.updateSearchValue() -&gt; ()"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "96E84305-E490-47AC-8A8C-8AA8F55753E8 - a0baad06b02c07f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneSolutionTextField.OneSolutionTextFieldViewModel.updateSearchValue() -&gt; ()"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E15DC4C-C364-498E-8842-52FD1F3907D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "update(input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D020DBCE-7431-43B9-94D0-70D4CCF2BD14"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "rightImageAction()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7D22AC9-0174-48FD-85F8-A5676636A394"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "textChanged()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A10F76FB-768E-46BB-936C-5371ACC7AFBC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
+            landmarkName = "onClearTapped()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39ACCABE-B20D-45BD-8FE5-3A900DB33427"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "206"
+            endingLineNumber = "206"
+            landmarkName = "callTextFieldAPI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2BE1FBB-60C6-4671-9029-5B6B80ED4283"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "update(models:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CD9C206-F4B9-4216-8677-C05EA5715C55"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
+            landmarkName = "callTextFieldAPI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3CD9C206-F4B9-4216-8677-C05EA5715C55 - 59aec05e401a264d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in OneSolutionTextField.OneSolutionTextFieldViewModel.callTextFieldAPI() -&gt; ()"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "3CD9C206-F4B9-4216-8677-C05EA5715C55 - 59aec05e401a264d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in OneSolutionTextField.OneSolutionTextFieldViewModel.callTextFieldAPI() -&gt; ()"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0DAFB28-8007-4F5F-BF82-6F3E92FE9564"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/View/SuggestionsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F0DAFB28-8007-4F5F-BF82-6F3E92FE9564 - 5d7c18072dc01132"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneSolutionTextField.SuggestionsView.body.getter : some"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/View/SuggestionsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "F0DAFB28-8007-4F5F-BF82-6F3E92FE9564 - 5d7c18072dc01132"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneSolutionTextField.SuggestionsView.body.getter : some"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/View/SuggestionsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "883FC3EA-5494-427C-A642-404FF4D178A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../API/OneSolutionAPI/Classes/APIClient/API/AbstractAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "callAPI(endPoint:showActivity:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "883FC3EA-5494-427C-A642-404FF4D178A5 - e13a93c1689a297b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for OneSolutionAPI.AbstractAPI.callAPI(endPoint: OneSolutionAPI.APIEndPoint, showActivity: Swift.Bool) async -&gt; Swift.Result&lt;Swift.Optional&lt;Foundation.Data&gt;, OneSolutionAPI.ResultError&gt;"
+                  moduleName = "OneSolutionAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/API/OneSolutionAPI/Classes/APIClient/API/AbstractAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "832">
+               </Location>
+               <Location
+                  uuid = "883FC3EA-5494-427C-A642-404FF4D178A5 - e13a93c1689a297b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for OneSolutionAPI.AbstractAPI.callAPI(endPoint: OneSolutionAPI.APIEndPoint, showActivity: Swift.Bool) async -&gt; Swift.Result&lt;Swift.Optional&lt;Foundation.Data&gt;, OneSolutionAPI.ResultError&gt;"
+                  moduleName = "OneSolutionAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/API/OneSolutionAPI/Classes/APIClient/API/AbstractAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "904">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "650C784D-76E1-49F9-902E-808F7194FEE2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../API/OneSolutionAPI/Classes/APIClient/API/APIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "call(endPoint:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3694504-18B1-4376-98F9-01F052F78D4B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../API/OneSolutionAPI/Classes/APIServices/Dashboard/PORLocationAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "fetchPreviousVins(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C3694504-18B1-4376-98F9-01F052F78D4B - f05e54257ebe3ba9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for OneSolutionAPI.PORLocationAPI.fetchPreviousVins(with: Swift.Dictionary&lt;Swift.String, Any&gt;) async -&gt; Swift.Result&lt;OneSolutionAPI.PORLocationPreviousDetails, OneSolutionAPI.ResultError&gt;"
+                  moduleName = "OneSolutionAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/API/OneSolutionAPI/Classes/APIServices/Dashboard/PORLocationAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "C3694504-18B1-4376-98F9-01F052F78D4B - f05e54257ebe3ba9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for OneSolutionAPI.PORLocationAPI.fetchPreviousVins(with: Swift.Dictionary&lt;Swift.String, Any&gt;) async -&gt; Swift.Result&lt;OneSolutionAPI.PORLocationPreviousDetails, OneSolutionAPI.ResultError&gt;"
+                  moduleName = "OneSolutionAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/API/OneSolutionAPI/Classes/APIServices/Dashboard/PORLocationAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "C3694504-18B1-4376-98F9-01F052F78D4B - f05e54257ebe3ba9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for OneSolutionAPI.PORLocationAPI.fetchPreviousVins(with: Swift.Dictionary&lt;Swift.String, Any&gt;) async -&gt; Swift.Result&lt;OneSolutionAPI.PORLocationPreviousDetails, OneSolutionAPI.ResultError&gt;"
+                  moduleName = "OneSolutionAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/API/OneSolutionAPI/Classes/APIServices/Dashboard/PORLocationAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "C3694504-18B1-4376-98F9-01F052F78D4B - f05e54257ebe3ba9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for OneSolutionAPI.PORLocationAPI.fetchPreviousVins(with: Swift.Dictionary&lt;Swift.String, Any&gt;) async -&gt; Swift.Result&lt;OneSolutionAPI.PORLocationPreviousDetails, OneSolutionAPI.ResultError&gt;"
+                  moduleName = "OneSolutionAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/API/OneSolutionAPI/Classes/APIServices/Dashboard/PORLocationAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "908DBBEE-D2B2-4BE6-A0C8-A9B960B36BCD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../API/OneSolutionAPI/Classes/APIServices/TextField/OneSolutionTextfieldAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetchData(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "908DBBEE-D2B2-4BE6-A0C8-A9B960B36BCD - 89b2ef24c9d89077"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for OneSolutionAPI.OneSolutionTextFieldAPI.fetchData(with: OneSolutionAPI.OneSolutionRequest) async -&gt; Swift.Result&lt;OneSolutionAPI.OneSolutionTextFieldModel, OneSolutionAPI.ResultError&gt;"
+                  moduleName = "OneSolutionAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/API/OneSolutionAPI/Classes/APIServices/TextField/OneSolutionTextfieldAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "908DBBEE-D2B2-4BE6-A0C8-A9B960B36BCD - 89b2ef24c9d89077"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for OneSolutionAPI.OneSolutionTextFieldAPI.fetchData(with: OneSolutionAPI.OneSolutionRequest) async -&gt; Swift.Result&lt;OneSolutionAPI.OneSolutionTextFieldModel, OneSolutionAPI.ResultError&gt;"
+                  moduleName = "OneSolutionAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/API/OneSolutionAPI/Classes/APIServices/TextField/OneSolutionTextfieldAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6922A516-44D6-4476-8FB5-6C7B3619B8B6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../API/OneSolutionAPI/Classes/APIClient/API/AbstractAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "callAPI(endPoint:showActivity:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6922A516-44D6-4476-8FB5-6C7B3619B8B6 - e13a93c1689a2812"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for OneSolutionAPI.AbstractAPI.callAPI(endPoint: OneSolutionAPI.APIEndPoint, showActivity: Swift.Bool) async -&gt; Swift.Result&lt;Swift.Optional&lt;Foundation.Data&gt;, OneSolutionAPI.ResultError&gt;"
+                  moduleName = "OneSolutionAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/API/OneSolutionAPI/Classes/APIClient/API/AbstractAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "6922A516-44D6-4476-8FB5-6C7B3619B8B6 - e13a93c1689a2812"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for OneSolutionAPI.AbstractAPI.callAPI(endPoint: OneSolutionAPI.APIEndPoint, showActivity: Swift.Bool) async -&gt; Swift.Result&lt;Swift.Optional&lt;Foundation.Data&gt;, OneSolutionAPI.ResultError&gt;"
+                  moduleName = "OneSolutionAPI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/API/OneSolutionAPI/Classes/APIClient/API/AbstractAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "332">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59F22888-30CA-4CF0-91E0-DEC603408048"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../API/OneSolutionAPI/Classes/APIServices/TextField/OneSolutionTextfieldAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchData(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1CCB02D-60CC-49D8-978C-DF8669E98115"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../API/OneSolutionAPI/Classes/APIServices/TextField/OneSolutionTextfieldAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchData(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "420C8FEA-DF9E-48C0-BF83-25692E26F584"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
+            landmarkName = "callTextFieldAPI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "420C8FEA-DF9E-48C0-BF83-25692E26F584 - 8fe0794aaff1601f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in OneSolutionTextField.OneSolutionTextFieldViewModel.callTextFieldAPI() -&gt; ()"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "253"
+                  endingLineNumber = "253"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "420C8FEA-DF9E-48C0-BF83-25692E26F584 - d2ce36ff093dfdc6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in OneSolutionTextField.OneSolutionTextFieldViewModel.callTextFieldAPI() -&gt; ()"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "253"
+                  endingLineNumber = "253"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "420C8FEA-DF9E-48C0-BF83-25692E26F584 - 59aec05e401a2c1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in OneSolutionTextField.OneSolutionTextFieldViewModel.callTextFieldAPI() -&gt; ()"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "253"
+                  endingLineNumber = "253"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "420C8FEA-DF9E-48C0-BF83-25692E26F584 - 8fe0794aaff161b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in OneSolutionTextField.OneSolutionTextFieldViewModel.callTextFieldAPI() -&gt; ()"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "258"
+                  endingLineNumber = "258"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "420C8FEA-DF9E-48C0-BF83-25692E26F584 - d2ce36ff093dfc6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in OneSolutionTextField.OneSolutionTextFieldViewModel.callTextFieldAPI() -&gt; ()"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "258"
+                  endingLineNumber = "258"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "420C8FEA-DF9E-48C0-BF83-25692E26F584 - 59aec05e401a2db0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in OneSolutionTextField.OneSolutionTextFieldViewModel.callTextFieldAPI() -&gt; ()"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "258"
+                  endingLineNumber = "258"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FBB41C6-4EA2-49BE-9300-37B27FB2F9A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/View/OneSolutionTextField.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6FBB41C6-4EA2-49BE-9300-37B27FB2F9A3 - dce4f08cc80c17ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (OneSolutionAPI.OneSolutionModel) -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, Swift.Optional&lt;OneSolutionTextField.SuggestionsView&gt;)&gt; in OneSolutionTextField.OneSolutionTextField.body.getter : some"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/View/OneSolutionTextField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "6FBB41C6-4EA2-49BE-9300-37B27FB2F9A3 - afe976c05c8e2967"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #3 (OneSolutionAPI.OneSolutionModel) -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, Swift.Optional&lt;OneSolutionTextField.SuggestionsView&gt;)&gt; in OneSolutionTextField.OneSolutionTextField.body.getter : some"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/View/OneSolutionTextField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "6FBB41C6-4EA2-49BE-9300-37B27FB2F9A3 - afe976c05c8e2efb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #3 (OneSolutionAPI.OneSolutionModel) -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, Swift.Optional&lt;OneSolutionTextField.SuggestionsView&gt;)&gt; in OneSolutionTextField.OneSolutionTextField.body.getter : some"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/View/OneSolutionTextField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "6FBB41C6-4EA2-49BE-9300-37B27FB2F9A3 - afe976c05c8e2984"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #3 (OneSolutionAPI.OneSolutionModel) -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, Swift.Optional&lt;OneSolutionTextField.SuggestionsView&gt;)&gt; in OneSolutionTextField.OneSolutionTextField.body.getter : some"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/View/OneSolutionTextField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A858466-8DA5-428B-BD05-5153382C4AB5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/View/DatePickerViewRepresentable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00321C37-8A5E-45BC-8897-6653B96B7D21"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/View/DatePickerViewRepresentable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA269A89-F41E-4273-BECF-66E1FD351321"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/View/DatePickerViewRepresentable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4654DE26-1360-4206-9704-9AEE74EC10B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/View/DatePickerTextField.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC9D0E9F-F98C-4485-9F74-6A840DB83AE0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/View/DatePickerViewRepresentable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3AD0058A-736E-4FB3-9A05-D3F637EF0D06"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/View/DatePickerTextField.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "3AD0058A-736E-4FB3-9A05-D3F637EF0D06 - ac036b153bfa1a5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneSolutionTextField.DatePickerTextField.init(date: SwiftUI.Binding&lt;Swift.Optional&lt;Foundation.Date&gt;&gt;, datePickerMode: __C.UIDatePickerMode, frame: __C.CGRect, onSelection: Swift.Optional&lt;(Swift.Optional&lt;Foundation.Date&gt;) -&gt; ()&gt;) -&gt; OneSolutionTextField.DatePickerTextField"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/View/DatePickerTextField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "3AD0058A-736E-4FB3-9A05-D3F637EF0D06 - 6fb9b534193124ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OneSolutionTextField.DatePickerTextField.init(date: SwiftUI.Binding&lt;Swift.Optional&lt;Foundation.Date&gt;&gt;, datePickerMode: __C.UIDatePickerMode, frame: __C.CGRect, onSelection: Swift.Optional&lt;(Swift.Optional&lt;Foundation.Date&gt;) -&gt; ()&gt;, onClose: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; OneSolutionTextField.DatePickerTextField"
+                  moduleName = "OneSolutionTextField"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sreekanth.tadi/IVY-Workspace/Setup2/TextField/OneSolutionTextField/Classes/View/DatePickerTextField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "516">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED4F5584-6020-4CE8-857D-156C1C764FC5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/View/DatePickerViewRepresentable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6740AFE2-4723-423D-A57B-EFDD6A321B6A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/View/DatePickerViewRepresentable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4CAE068-AF41-41C9-B944-BEAD38D23F86"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/View/DatePickerViewRepresentable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFDA12D1-67E9-4AC2-9464-15FA5E2E3D84"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../OneSolutionAppInterface/OneSolutionAppInterface/Classes/Dashboard/PORLocation/PORLocationViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "initializeArea()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7183D998-5043-4BA4-BA70-6823C8CCD9B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../OneSolutionAppInterface/OneSolutionAppInterface/Classes/Dashboard/PORLocation/PORLocationViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "updateAreaValues()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3FD26FBD-C372-4A8B-8F93-5DA91C4D2056"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "subscribeToInput()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77624DE2-D081-4BE2-B367-B8C79F796F7B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../TextField/OneSolutionTextField/Classes/ViewModel/OneSolutionTexFieldViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "displayName"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
